@@ -1,7 +1,0 @@
-Pues Primero en  File/Consult/eliges el programa... 
-Te debe de salir en verde la ejecución .... 
-ahora solo ingresas el  ejemplo: abuelo(X,Y).    
-ejemplo 2  
-ingresas:
-tia(X,Y).      
-hija(X,Y).
